@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Ertai Kadyrkulov
+# Hi, I'm Ertai 👋
 
 Backend developer (Java / Spring Boot) based in Bishkek.
 I build microservices, event-driven systems and clean APIs.
